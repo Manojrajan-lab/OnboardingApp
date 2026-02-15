@@ -52,7 +52,7 @@ Through this project, I learned:
 
 ## ▶ Project Demo
 🎥 Watch the project output on LinkedIn:  
-🔗 **(https://www.linkedin.com/posts/manoj-rajan-1b9436338_androiddevelopment-kotlin-internshipjourney-activity-7428693929916542976-bc_r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTIDJ0BZLdn2JPcT_l9pY9fF3v82u-5yds)**
+🔗 **([Click Here](https://www.linkedin.com/posts/manoj-rajan-1b9436338_androiddevelopment-kotlin-internshipjourney-activity-7428693929916542976-bc_r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTIDJ0BZLdn2JPcT_l9pY9fF3v82u-5yds))**
 
 ---
 
