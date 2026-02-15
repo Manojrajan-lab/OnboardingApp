@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnboardingApp</string>
+    <string name="welcome_text">Welcome to My Internship 🚀</string>
+    <string name="button_text">Complete Onboarding</string>
+</resources>
